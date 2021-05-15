@@ -3,11 +3,11 @@ LoRa based control and log system for ASADA-Samara
 
 ### Most recent version of this repository can be found in: ###
 
-* [GitHub](https://github.com/DeltaLabo/ASADA)
+* [ASADA-PublicFiles](https://github.com/ssolorzanocr/ASADA-PublicFiles)
 
 ### What is this repository for? ###
 
-* This repository was created to develop LoRa based embedded control solution for the pumps of  ASADA-Samara. 
+* This repository was created to develop LoRa based embedded control solution for the pumps of ASADA-Samara. 
 
 ### HELTEC LoRa 32 board information
 
@@ -36,7 +36,7 @@ Search `Adafruit MQTT` and install it.
 
 ### Contribution guidelines ###
 
-* If you want to propose a review or need to modify the code for any reason first clone this [repository](https://github.com/DeltaLabo/ASADA) in your PC and create a new branch for your changes. Once your changes are complete and fully tested ask the administrator permission to push this new branch into the source.
+* If you want to propose a review or need to modify the code for any reason first clone this [repository](https://github.com/ssolorzanocr/ASADA-PublicFiles) in your PC and create a new branch for your changes. Once your changes are complete and fully tested ask the administrator permission to push this new branch into the source.
 * If you just want to do local changes instead you can download a zip version of the repository and do all changes locally in your PC. 
 
 ### Who do I talk to? ###
